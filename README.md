@@ -1,49 +1,50 @@
-<!-- HEADER MINIMALISTA -->
+<h1 align="center">Davi Rafael</h1>
+
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Header" />
+  Desenvolvedor Full Stack · Guarapuava, PR 🇧🇷
 </p>
 
 <p align="center">
-  <strong>Software Engineer // Desenvolvedor Full Stack</strong>
-</p>
-<p align="center">
-  <sub>Construindo soluções escaláveis, eficientes e focadas na experiência do usuário.</sub>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:seu_email@email.com"><img src="https://shields.io" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas&color=lightgrey&style=flat" alt="Visitas">
 </p>
 
 ---
 
-### 📌 Sobre Mim
+## Sobre
 
-- 💻 Atualmente focado em arquitetura de software e desenvolvimento web/mobile.
-- 🎓 Estudando sobre otimização de performance e sistemas distribuídos.
-- 🚀 Apaixonado por transformar ideias complexas em código limpo e intuitivo.
+- 🎓 Técnico em Desenvolvimento de Sistemas (2024 – 2026)
+- 💻 Foco em desenvolvimento web, com experiência aprofundada em **PHP**
+- 🌎 Inglês intermediário · Espanhol básico
+- 🌱 Sempre construindo algo novo e aprendendo no processo
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+</p>
+
+## Estatísticas
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&theme=transparent" alt="Stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&theme=transparent" alt="Linguagens">
+</p>
+
+## Destaques
+
+| Projeto | Descrição |
+| --- | --- |
+| [nome-do-projeto](https://github.com/SEU-USUARIO/nome-do-projeto) | Uma linha explicando o que ele faz |
+| [outro-projeto](https://github.com/SEU-USUARIO/outro-projeto) | Uma linha explicando o que ele faz |
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-Uma seleção das principais ferramentas com as quais trabalho no dia a dia:
-
-<p align="left">
-  <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
-</p>
-
----
-
-### 📊 Estatísticas de Código
-
 <p align="center">
-  <img height="165" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://vercel.app" alt="Linguagens mais usadas" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Snake Game" width="100%" />
+  <sub>Feito com ☕ e código</sub>
 </p>
