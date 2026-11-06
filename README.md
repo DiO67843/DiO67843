@@ -1,62 +1,49 @@
-<!-- HEADER / BANNER CYBERPUNK -->
+<!-- HEADER MINIMALISTA -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Cyberpunk Header" />
+  <img src="https://vercel.app" width="100%" alt="Header" />
 </p>
 
-<!-- STATUS DO TERMINAL -->
-```bash
-> INITIALIZING SYSTEM...
-> LOADING CORE PROTOCOLS...
-> LOCATION: NIGHT_CITY // GUARAPUAVA_SEC_01
-> IDENTITY: SEU_NOME
-> STATUS: CYBER-SOFTWARE DEVELOPER
-```
+<p align="center">
+  <strong>Software Engineer // Desenvolvedor Full Stack</strong>
+</p>
+<p align="center">
+  <sub>Construindo soluções escaláveis, eficientes e focadas na experiência do usuário.</sub>
+</p>
 
-## 🌌 SYSTEM OVERVIEW // S0BRE MIM
-
-- 🤖 **Diretriz Atual:** Desenvolvendo aplicações futuristas e otimizando algoritmos de IA.
-- ⚡ **Cyberware:** Especialista em injetar código limpo e arquitetar sistemas escaláveis.
-- 📡 **Frequência de Rede:** Disponível para projetos desafiadores e invasões de código abertas.
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:seu_email@email.com"><img src="https://shields.io" alt="Email" /></a>
+</p>
 
 ---
 
-## 🛠️ TECH STACK // CYBER IMPLANTS
+### 📌 Sobre Mim
 
-Para criar um visual neon e futurista, aqui estão os seus implantes tecnológicos (altere as tecnologias conforme as suas):
+- 💻 Atualmente focado em arquitetura de software e desenvolvimento web/mobile.
+- 🎓 Estudando sobre otimização de performance e sistemas distribuídos.
+- 🚀 Apaixonado por transformar ideias complexas em código limpo e intuitivo.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+Uma seleção das principais ferramentas com as quais trabalho no dia a dia:
 
 <p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Docker" />
+  <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
 </p>
 
 ---
 
-## 📊 MATRIX METRICS // ESTATÍSTICAS
-
-Substitua `SEU_USUARIO` nos links abaixo para renderizar os seus dados reais com o tema oficial **Cyberpunk** ou **Neon/Tokyonight**:
+### 📊 Estatísticas de Código
 
 <p align="center">
-  <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
+  <img height="165" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://vercel.app" alt="Linguagens mais usadas" />
 </p>
+
+<br />
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://githubusercontent.com" alt="Snake Game" width="100%" />
 </p>
-
----
-
-<!-- ANIMAÇÃO DE GRÁFICO (OPCIONAL) -->
-## 🌐 GRID CONNECTIONS // CONTRIBUIÇÕES
-
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Gráfico de Atividade" />
-</p>
-
-```bash
-> shutdown -h now --connection-closed
-```
