@@ -20,13 +20,4 @@
 
 `HTML` · `CSS` · `JavaScript` · `PHP` · `Git`
 
-## Destaques
-
-| Projeto | Descrição |
-| --- | --- |
-| [nome-do-projeto](https://github.com/SEU-USUARIO/nome-do-projeto) | Uma linha explicando o que ele faz |
-| [outro-projeto](https://github.com/SEU-USUARIO/outro-projeto) | Uma linha explicando o que ele faz |
-
----
-
 <p align="center"><sub>Feito com ☕ e código</sub></p>
